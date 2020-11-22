@@ -1,0 +1,3 @@
+/Users/dear_jinx/Downloads/github/CGIServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dear_jinx/Downloads/github/CGIServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dear_jinx/Downloads/github/CGIServer/cmake-build-debug/CMakeFiles/cgi.dir
